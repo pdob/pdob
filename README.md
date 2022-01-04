@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **React Native Projects**
 
-- 📧 How to reach me **patdob95@gmail.com**
+- 📧 How to reach me: **patdob95@gmail.com**
 
 <p align="left">
 </p>
