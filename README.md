@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Patryk Dobrzynski</h1>
 <h3 align="center">React Native Developer</h3>
 
-- 🔭 I’m currently working on [TicTacToe](https://github.com/pdob/tic-tac-toe)
+- 👨‍💻 I'm a software developer from London. I mostly code in React Native and JavaScript, but I'm continuing to learn and expanding my skillset.
+
+- 🔭 I’m currently working on [TicTacToe](https://github.com/pdob/tic-tac-toe) and [BitClover](https://github.com/pdob/bit-clover)
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **React Native Projects**
 
-- 📫 How to reach me **patdob95@gmail.com**
+- 📧 How to reach me **patdob95@gmail.com**
 
 <p align="left">
 </p>
