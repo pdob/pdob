@@ -2,7 +2,7 @@
 
 <h3 align="center">React Native Developer</h3>
 
-- 👨‍💻 I'm a software developer from London. I mostly code in React Native and JavaScript, but I'm continuing to learn and expanding my skillset.
+- 👨‍💻 I'm a software developer from London. I mostly work React Native and JavaScript, but I'm continuing to learn and expanding my skillset.
 
 - 🔭 I’m currently working on [TicTacToe](https://github.com/pdob/tic-tac-toe) and [BitClover](https://github.com/pdob/bit-clover)
 
