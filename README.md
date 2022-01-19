@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 , I'm Patryk Dobrzynski </h1>
+<h1 align="center">Hi 👋 ,  I'm Patryk Dobrzynski </h1>
 
-<h2 align="center">React Native Developer</h2>
+<h2>React Native Developer</h2>
 
 - 👨‍💻 I'm a software developer from London. I mostly work React Native and JavaScript, but I'm continuing to learn and expanding my skillset.
 
