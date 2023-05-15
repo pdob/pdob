@@ -4,7 +4,7 @@ As a React Native developer, I am experienced in creating mobile applications fo
 ## Skills
 * React Native development for iOS and Android platforms
 * State management using Redux
-* Third-party libraries such as React Navigation, Axios, and Firebase
+* Third-party libraries such as React Navigation, Axios, and Jest
 * Strong Knowledge of JavaScript and TypeScript
 * Experience working with RESTful APIs
 * Familiarity with mobile app development tools such as Xcode and Android Studio
