@@ -27,11 +27,6 @@ Legacy code can be found here:
 
 https://github.com/pdob/bit-clover
 
-### handi.cash:
-A wallet app allowing various payment options without the need of a card or physical cash, more info can be found here:
-
-https://handi.cash
-
 ### Tic Tac Toe: 
 A version of the all time classic, which allows the user to play against a computer as well as making an account and playing online against other players. More can be found here:
 
